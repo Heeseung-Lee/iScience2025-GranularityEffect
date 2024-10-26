@@ -1,1 +1,1 @@
-download all files and run "data_boostrap.m"
+download all files and run "data_boostrap.m" in "code" directory
