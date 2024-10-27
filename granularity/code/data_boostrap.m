@@ -4,7 +4,7 @@ addpath('./')
 addpath('../data/')
 cd('../result')
 
-% the number of iteration is 10000 in the manuscript
+% the number of iteration is 10000 in the manuscript. the iteration is for bootstrap-based test
 nIter       = 100;
 %
 
