@@ -12,7 +12,7 @@ nTB         = 10;
 pCI         = 95;
 lw          = 1.5;
 
-%% trial number count
+%% data load
 
 ipar        = load("data_ringpitch_seperate.mat");
 nSubs([1 2])= size(ipar.pars,1);
