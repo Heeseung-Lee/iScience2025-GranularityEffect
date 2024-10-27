@@ -4,7 +4,10 @@ addpath('./')
 addpath('../data/')
 cd('../result')
 
+% the number of iteration is 10000 in the manuscript
 nIter       = 100;
+%
+
 nTB         = 10;
 pCI         = 95;
 lw          = 1.5;
