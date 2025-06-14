@@ -1,1 +1,1 @@
-Data and analysis code for Lee, H., Lim, J., & Lee, S. H. (2025). Belief updating in decision-variable space: past decisions with finer granularity attract future ones more strongly (10.1016/j.isci.2025.112844).
+Data and analysis code for Lee, H., Lim, J., & Lee, S. H. (2025). Belief updating in decision-variable space: past decisions with finer granularity attract future ones more strongly. iScience. (10.1016/j.isci.2025.112844).
